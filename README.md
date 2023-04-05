@@ -1,7 +1,3 @@
-## Curriculo
-
----
-
 # Informações Pessoais
 
 - Nome: Leonardo Mendonça
