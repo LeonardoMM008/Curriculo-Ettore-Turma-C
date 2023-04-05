@@ -1,1 +1,5 @@
-# Curriculo-Ettore-Turma-C
+Curriculo
+
+--
+
+Leonardo Mendonça
