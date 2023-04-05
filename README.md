@@ -1,5 +1,3 @@
 ## Curriculo
 
 ---
-
-Leonardo Mendonça
